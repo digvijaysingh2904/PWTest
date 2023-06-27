@@ -1,4 +1,4 @@
-class Solution {
+class zero {
     public static void main(String args[]) {
         int nonZeroIndex = 0;
         int nums[] = new int[10] ; 
